@@ -4,10 +4,11 @@
 Using the code give to me by the Bootcamp - I created a password generator based on my knowledge gained within the class.
 
 ## Links
-Repository:
-Deployed Link:
+Repository: https://github.com/annapng/passwordGen
+Deployed Link: https://annapng.github.io/passwordGen/
 
 ## Screenshot
+Example password using only lowercase letters and symbols:
 ![Example password using only lowercase letters and symbols](Example1.png)
 
 
